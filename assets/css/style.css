@@ -932,6 +932,7 @@ section {
   background-position: center center;
   background-size: cover;
   position: relative;
+  display: none;
 }
 
 .testimonials::before {
@@ -1293,7 +1294,7 @@ section {
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #7cc576;
+  color: #FF0202;
 }
 
 .faq .faq-list a.collapsed .icon-show {
@@ -1341,6 +1342,10 @@ section {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
+  color: #484848;
+}
+
+.contact .info a {
   color: #484848;
 }
 
