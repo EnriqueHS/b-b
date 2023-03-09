@@ -766,6 +766,10 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio {
+  display: none;
+}
+
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
